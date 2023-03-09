@@ -1,5 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou João Pedro Jacó</h1>
-<h3 align="center">Estudante de programação e estágiario na Inova Tech Jr.</h3>
+<h3 align="center">Estudante de Ciência da Computação.</h3>
+
+- 🔭 Atualmente trabalhando na **Inova Tech Jr.**
 
 - 🌱 Atualmente estou estudando **Python e JavaScript**
 
@@ -9,7 +11,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/dyeorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/dyeorn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joao-pedro-jaco-leite/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-pedro-jaco-leite/" height="30" width="40" /></a>
-<a href="https://instagram.com/@pjota_jaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pjota_jaco" height="30" width="40" /></a>
+<a href="https://instagram.com/pjota_jaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pjota_jaco" height="30" width="40" /></a>
 <a href="https://discord.gg/- JP -#1753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="- JP -#1753" height="30" width="40" /></a>
 </p>
 
