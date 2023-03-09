@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou estudando **Python e JavaScript**
 
-- 📫 Como me achar **jpjacoleite.jpjl@hotmail.com**
+- 📫 Como me achar: **jpjacoleite.jpjl@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
