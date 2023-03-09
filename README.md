@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou João Pedro Jacó</h1>
+<h1 align="center">Olá 👋, eu sou João Pedro Jacó</h1>
 <h3 align="center">Estudante de Ciência da Computação.</h3>
 
 - 🔭 Atualmente trabalhando na **Inova Tech Jr.**
