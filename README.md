@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou João Pedro Jacó</h1>
 <h3 align="center">Estudante de programação e estágiario na Inova Tech Jr.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyeorn&label=Profile%20views&color=0e75b6&style=flat" alt="dyeorn" /> </p>
-
 - 🌱 Atualmente estou estudando **Python e JavaScript**
 
 - 📫 Como me achar **jpjacoleite.jpjl@hotmail.com**
