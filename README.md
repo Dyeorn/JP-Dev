@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalhando na **Inova Tech Jr.**
 
-- 🌱 Atualmente estudando **Python e JavaScript**
+- 🌱 Atualmente estudando **Python e Cloud Computing**
 
 - 📫 Como me achar: **jpjacoleite.jpjl@hotmail.com**
 
