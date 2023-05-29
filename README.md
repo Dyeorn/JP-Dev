@@ -22,6 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyeorn&theme=tokyonight&show_icons=true&locale=en" alt="dyeorn" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dyeorn&theme=tokyonight" alt="Dyeorn" /></p>
 
-![Snake animation](https://github.com/Dyeorn/Dyeorn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dyeorn/dyeorn/blob/output/github-contribution-grid-snake.svg)
 
 
