@@ -1,11 +1,11 @@
-<h1 align="center">Olá 👋, eu sou João Pedro Jacó</h1>
-<h3 align="center">Estudante de Ciência da Computação.</h3>
+<h1 align="center">Hello 👋, I am João Pedro Jacó</h1>
+<h3 align="center">Computer Science Student.</h3>
 
-- 🔭 Atualmente trabalhando na **Inova Tech Jr.**
+- 🔭 Currently working on **Inova Tech Jr.** as a Back-End Developer
 
-- 🌱 Atualmente estudando **Python, Database (SQL e NoSQL) e Kotlin**
+- 🌱 Currently studying **Python, Database (SQL and NoSQL) and Kotlin**
 
-- 📫 Como me achar: **jpjacoleite.jpjl@hotmail.com**
+- 📫 How to find me: **jpjacoleite.jpjl@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
