@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **Inova Tech Jr.** as a Back-End Developer
 
-- 🌱 Currently studying **Python, Database (SQL and NoSQL)**
+- 🌱 Currently studying **Python and Database (SQL and NoSQL)**
 
 - 📫 How to find me: **jpjacoleite.jpjl@hotmail.com**
 
