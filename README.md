@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, I am João Pedro Jacó</h1>
 <h3 align="center">Computer Science Student.</h3>
 
-- 🔭 Currently working on **Inova Tech Jr.** as a Back-End Developer
-
 - 🌱 Currently studying **Python and Database (SQL and NoSQL)**
 
 - 📫 How to find me: **jpjacoleite.jpjl@hotmail.com**
