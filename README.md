@@ -3,7 +3,7 @@
 
 - 🌱 Currently studying **Python and Database (SQL and NoSQL)**
 
-- 📫 How to find me: **jpjacoleite.jpjl@hotmail.com**
+- 📫 How to find me: **jpjacoleite.jpjl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
